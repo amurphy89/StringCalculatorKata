@@ -5,7 +5,7 @@ using StringCalculatorKata;
 namespace StringCalculatorTests
 {
     [TestFixture]
-    public class UnitTest1
+    public class StringCalculatorTest
     {
         private StringCalculator _calculator;
 
